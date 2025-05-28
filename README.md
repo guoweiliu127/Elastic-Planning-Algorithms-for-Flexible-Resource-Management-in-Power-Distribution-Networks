@@ -8,7 +8,6 @@ This repository contains an open-source implementation of the Elastic Planning A
 - `agent.py` — MADDPG agent implementation (actor-critic, replay buffer, training utilities).
 - `train.py` — Training script to train multiple agents in the environment.
 - `requirements.txt` — Python dependencies.
-- `README.md` — This document.
 
 ## Installation
 
